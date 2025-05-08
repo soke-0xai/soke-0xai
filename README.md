@@ -1,16 +1,71 @@
-## Hi there 👋
+# Soke.0xai
 
-<!--
-**soke-0xai/soke-0xai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Japanese engineer with experience in AI, full-stack development, and systems architecture. Enjoys blending technical expertise with creative solutions across various platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Development
+
+- Experienced in machine learning, full-stack development, and thoughtful architecture across various platforms.
+
+### System Architecture
+
+- Skilled in designing and building complex systems for Linux, Windows, and macOS environments.
+
+---
+
+## Skills & Expertise
+
+### AI & Machine Learning
+
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- NLP
+- TensorFlow
+- PyTorch
+
+### Web Development
+
+- React
+- Node.js
+- TypeScript
+- Next.js
+- GraphQL
+- Tailwind CSS
+
+### System & Infrastructure
+
+- Linux/Unix
+- Windows Server
+- macOS
+- Docker
+- Kubernetes
+- CI/CD
+
+### Cloud & DevOps
+
+- AWS
+- Azure
+- GCP
+- Terraform
+- Ansible
+- Jenkins
+
+### Databases & Backend
+
+- PostgreSQL
+- MongoDB
+- Redis
+- GraphQL
+- REST APIs
+- Microservices
+
+### Security & Best Practices
+
+- OAuth 2.0
+- JWT
+- HTTPS/SSL
+- Encryption
+- Security Audits
+- Code Reviews
