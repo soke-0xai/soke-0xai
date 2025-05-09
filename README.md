@@ -1,3 +1,5 @@
+![a](https://github.com/user-attachments/assets/923a96c8-b7de-4199-a288-8d6aa8b975de)
+
 # Soke.0xai
 
 ## About Me
