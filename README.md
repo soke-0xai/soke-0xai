@@ -2,7 +2,7 @@
 
 ## About Me
 
-Japanese engineer with experience in AI, full-stack development, and systems architecture. Enjoys blending technical expertise with creative solutions across various platforms.
+Japanese engineer with experience in AI, (almost) full-stack development, and systems architecture. Enjoys blending technical expertise with creative solutions across various platforms.
 
 ### AI Development
 
