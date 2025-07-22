@@ -12,6 +12,10 @@ Japanese engineer with experience in AI, (almost) full-stack development, and sy
 
 - Skilled in designing and building complex systems for Linux, Windows, and macOS environments.
 
+## Contact
+- mail: `soke.0xai@outlook.jp`, with [PGP Pub-Key](https://keys.openpgp.org/vks/v1/by-fingerprint/B40CEE23965BB2E79AF417CD01580E04336235B0)
+- Session: `057072934b976bfff64aa74519c0e4d820b06cc1cb9b1296cd13e64db548d6435d`
+
 ---
 
 ## Skills & Expertise
