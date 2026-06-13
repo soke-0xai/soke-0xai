@@ -42,19 +42,9 @@ Japanese engineer with experience in AI, (almost) full-stack development, and sy
 
 - Linux/Unix
 - Windows Server
-- macOS
 - Docker
 - Kubernetes
 - CI/CD
-
-### Cloud & DevOps
-
-- AWS
-- Azure
-- GCP
-- Terraform
-- Ansible
-- Jenkins
 
 ### Databases & Backend
 
@@ -70,6 +60,4 @@ Japanese engineer with experience in AI, (almost) full-stack development, and sy
 - OAuth 2.0
 - JWT
 - HTTPS/SSL
-- Encryption
-- Security Audits
 - Code Reviews
